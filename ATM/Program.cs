@@ -6,6 +6,7 @@ using Ninject;
 
 namespace ATMSystem
 {
+    // Entry point of the application
     class Program
     {
         static void Main(string[] args)
