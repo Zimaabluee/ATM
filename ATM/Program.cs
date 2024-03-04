@@ -21,8 +21,10 @@ namespace ATMSystem
     }
 
     // Data Model
+    // Data Model representing an account
     public class Account
     {
+        // Private fields representing account properties
         private int account_Number;
         private string login;
         private string pin;
@@ -32,85 +34,23 @@ namespace ATMSystem
         private DateTime date;
         private bool isAdmin;
 
-        public void SetAccountNumber(int accountNumber)
-        {
-            account_Number = accountNumber;
-        }
-
-        public int GetAccountNumber()
-        {
-            return account_Number;
-        }
-
-        public void SetLogin(string newLogin)
-        {
-            login = newLogin;
-        }
-
-        public string GetLogin()
-        {
-            return login;
-        }
-
-        public void SetPin(string newPin)
-        {
-            pin = newPin;
-        }
-
-        public string GetPin()
-        {
-            return pin;
-        }
-
-        public void SetName(string newName)
-        {
-            name = newName;
-        }
-
-        public string GetName()
-        {
-            return name;
-        }
-
-        public void SetBalance(int newBalance)
-        {
-            balance = newBalance;
-        }
-
-        public int GetBalance()
-        {
-            return balance;
-        }
-
-        public void SetStatus(string newStatus)
-        {
-            status = newStatus;
-        }
-
-        public string GetStatus()
-        {
-            return status;
-        }
-
-        public void SetDate(DateTime newDate)
-        {
-            date = newDate;
-        }
-
-        public DateTime GetDate()
-        {
-            return date;
-        }
-
-        public void SetIsAdmin(bool newIsAdmin)
-        {
-            isAdmin = newIsAdmin;
-        }
-
-        public bool GetIsAdmin()
-        {
-            return isAdmin;
-        }
+        // Methods to set and get account properties
+        public void SetAccountNumber(int accountNumber) { account_Number = accountNumber; }
+        public int GetAccountNumber() { return account_Number; }
+        public void SetLogin(string newLogin) { login = newLogin; }
+        public string GetLogin() { return login; }
+        public void SetPin(string newPin) { pin = newPin; }
+        public string GetPin() { return pin; }
+        public void SetName(string newName) { name = newName; }
+        public string GetName() { return name; }
+        public void SetBalance(int newBalance) { balance = newBalance; }
+        public int GetBalance() { return balance; }
+        public void SetStatus(string newStatus) { status = newStatus; }
+        public string GetStatus() { return status; }
+        public void SetDate(DateTime newDate) { date = newDate; }
+        public DateTime GetDate() { return date; }
+        public void SetIsAdmin(bool newIsAdmin) { isAdmin = newIsAdmin; }
+        public bool GetIsAdmin() { return isAdmin; }
     }
 
     // Data Access Layer (DAL)
