@@ -1,0 +1,54 @@
+# Indentation style
+[*.{cs,vb}]
+indent_style = space
+indent_size = 4
+
+# Line endings
+[*.{cs,vb}]
+end_of_line = crlf
+
+# Character encoding
+[*.{cs,vb}]
+charset = utf-8
+
+# Ensure file ends with a newline
+[*.{cs,vb}]
+insert_final_newline = true
+
+# Trim trailing whitespace at the end of lines
+[*.{cs,vb}]
+trim_trailing_whitespace = true
+
+# Limit consecutive blank lines
+[*.{cs,vb}]
+# Allow a maximum of 2 consecutive blank lines.
+max_consecutive_blank_lines = 2
+
+# StyleCopAnalyzers settings
+[*.{cs,vb}]
+dotnet_style_qualification_for_field = false:suggestion
+dotnet_style_qualification_for_property = false:suggestion
+dotnet_style_qualification_for_method = false:suggestion
+dotnet_style_qualification_for_event = false:suggestion
+dotnet_style_qualification_for_nested_type = false:suggestion
+dotnet_style_require_accessibility_modifiers = always:suggestion
+dotnet_style_require_accessibility_modifiers_for_interface_declarations = false:suggestion
+dotnet_style_require_accessibility_modifiers_for_non_interface_declarations = true:suggestion
+dotnet_style_require_accessibility_modifiers_for_non_interface_members = true:suggestion
+dotnet_style_require_accessibility_modifiers_for_event = true:suggestion
+dotnet_style_require_accessibility_modifiers_for_overridden_members = true:suggestion
+dotnet_style_require_return_type = true:suggestion
+dotnet_style_require_return_type_for_indexers = true:suggestion
+dotnet_style_require_return_type_for_public_methods = true:suggestion
+dotnet_style_require_return_type_for_public_api_methods = true:suggestion
+dotnet_style_require_return_type_for_parameters = false:none
+dotnet_style_require_return_type_for_member_functions = true:suggestion
+dotnet_style_require_return_type_for_non_private_methods = true:suggestion
+dotnet_style_require_return_type_for_operators = true:suggestion
+dotnet_style_require_return_type_for_properties = true:suggestion
+dotnet_style_require_return_type_for_delegate_methods = true:suggestion
+dotnet_style_require_return_type_for_local_functions = true:suggestion
+dotnet_style_require_return_type_for_nullable_types = false:none
+dotnet_style_require_accessibility_modifiers_for_non_abstract_non_interface_indexers = true:suggestion
+dotnet_style_require_accessibility_modifiers_for_non_interface_indexers = true:suggestion
+dotnet_style_require_accessibility_modifiers_for_abstract_members = true:suggestion

@@ -9,7 +9,8 @@
       "ATM/1.0.0": {
         "dependencies": {
           "MySql.Data": "8.3.0",
-          "Ninject": "3.3.6"
+          "Ninject": "3.3.6",
+          "StyleCop.Analyzers": "1.1.118"
         },
         "runtime": {
           "ATM.dll": {}
@@ -143,6 +144,7 @@
           }
         }
       },
+      "StyleCop.Analyzers/1.1.118": {},
       "System.Buffers/4.5.1": {},
       "System.Configuration.ConfigurationManager/4.4.1": {
         "dependencies": {
@@ -409,6 +411,13 @@
       "sha512": "sha512-93avazUpbRL3IdwvTQF0DKSQB26TeqwMGhZsQNxi/RLSYewhxBkdGDhwWe9DAIRF1+zKDVMv3XkBk8HobKU6wA==",
       "path": "ninject/3.3.6",
       "hashPath": "ninject.3.3.6.nupkg.sha512"
+    },
+    "StyleCop.Analyzers/1.1.118": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Onx6ovGSqXSK07n/0eM3ZusiNdB6cIlJdabQhWGgJp3Vooy9AaLS/tigeybOJAobqbtggTamoWndz72JscZBvw==",
+      "path": "stylecop.analyzers/1.1.118",
+      "hashPath": "stylecop.analyzers.1.1.118.nupkg.sha512"
     },
     "System.Buffers/4.5.1": {
       "type": "package",

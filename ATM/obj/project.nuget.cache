@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "JVRN9fDuK1Cob5J3aLQ9MjxZmTPPOxNlIeVj6dcRK/UgzVXchYvFoGTTM7l54F5VAwxwalXrxgbsfJU6HP6PMA==",
+  "dgSpecHash": "xfOYWm0y/SqhSoO07t+IXKlEi1CPITF5vUTY0FGvhGCouEOZ3ceyi/ZFV0Z/Fzk7jtQBJ72qcWZqxv4W1PxEbg==",
   "success": true,
   "projectFilePath": "A:\\c#sources\\ATM\\ATM\\ATM.csproj",
   "expectedPackageFiles": [
@@ -14,6 +14,7 @@
     "C:\\Users\\akram\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\akram\\.nuget\\packages\\mysql.data\\8.3.0\\mysql.data.8.3.0.nupkg.sha512",
     "C:\\Users\\akram\\.nuget\\packages\\ninject\\3.3.6\\ninject.3.3.6.nupkg.sha512",
+    "C:\\Users\\akram\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512",
     "C:\\Users\\akram\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\akram\\.nuget\\packages\\system.configuration.configurationmanager\\4.4.1\\system.configuration.configurationmanager.4.4.1.nupkg.sha512",
     "C:\\Users\\akram\\.nuget\\packages\\system.diagnostics.diagnosticsource\\7.0.2\\system.diagnostics.diagnosticsource.7.0.2.nupkg.sha512",
