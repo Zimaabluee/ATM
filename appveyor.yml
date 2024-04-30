@@ -1,0 +1,7 @@
+image: Visual Studio 2022
+
+
+
+  
+build_script:
+  - ps: .\shell.ps1
