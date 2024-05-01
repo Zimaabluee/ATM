@@ -1,12 +1,22 @@
-image: Visual Studio 2022
+name: CI
 
+on:
+  push:
+    branches:
+      - main
 
+jobs:
+  build:
+    runs-on: windows-latest
 
-  
-build_script:
-  - ps: .\shell.ps1
-  - name: Upload coverage reports to Codecov
-    uses: codecov/codecov-action@v4.0.1
-    with:
-      token: ${{58fe2a5f-ddf9-4fcc-b8ad-567f2d3a3175}}
-  
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      
+      - name: Run shell script
+        run: .\shell.ps1
+
+      - name: Upload coverage reports to Codecov
+        uses: codecov/codecov-action@v4.0.1
+        with:
+          token: ${{ secrets.CODECOV_TOKEN }}
