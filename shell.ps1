@@ -9,4 +9,4 @@ doxygen Doxyfile
 
 # Run the unit test(s)
 dotnet test
-dotnet test /p:CollectCoverage=true /p:CoverletOutputFormat=opencover
+#dotnet test /p:CollectCoverage=true /p:CoverletOutputFormat=opencover

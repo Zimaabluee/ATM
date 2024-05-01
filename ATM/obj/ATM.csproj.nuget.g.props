@@ -14,5 +14,6 @@
   </ItemGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <PkgStyleCop_Analyzers Condition=" '$(PkgStyleCop_Analyzers)' == '' ">C:\Users\akram\.nuget\packages\stylecop.analyzers\1.1.118</PkgStyleCop_Analyzers>
+    <PkgOpenCover Condition=" '$(PkgOpenCover)' == '' ">C:\Users\akram\.nuget\packages\opencover\4.7.1221</PkgOpenCover>
   </PropertyGroup>
 </Project>

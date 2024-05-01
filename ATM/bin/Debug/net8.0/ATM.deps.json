@@ -10,7 +10,9 @@
         "dependencies": {
           "MySql.Data": "8.3.0",
           "Ninject": "3.3.6",
-          "StyleCop.Analyzers": "1.1.118"
+          "OpenCover": "4.7.1221",
+          "StyleCop.Analyzers": "1.1.118",
+          "coverlet.collector": "6.0.2"
         },
         "runtime": {
           "ATM.dll": {}
@@ -24,6 +26,7 @@
           }
         }
       },
+      "coverlet.collector/6.0.2": {},
       "Google.Protobuf/3.25.1": {
         "runtime": {
           "lib/net5.0/Google.Protobuf.dll": {
@@ -144,6 +147,7 @@
           }
         }
       },
+      "OpenCover/4.7.1221": {},
       "StyleCop.Analyzers/1.1.118": {},
       "System.Buffers/4.5.1": {},
       "System.Configuration.ConfigurationManager/4.4.1": {
@@ -349,6 +353,13 @@
       "path": "bouncycastle.cryptography/2.2.1",
       "hashPath": "bouncycastle.cryptography.2.2.1.nupkg.sha512"
     },
+    "coverlet.collector/6.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bJShQ6uWRTQ100ZeyiMqcFlhP7WJ+bCuabUs885dJiBEzMsJMSFr7BOyeCw4rgvQokteGi5rKQTlkhfQPUXg2A==",
+      "path": "coverlet.collector/6.0.2",
+      "hashPath": "coverlet.collector.6.0.2.nupkg.sha512"
+    },
     "Google.Protobuf/3.25.1": {
       "type": "package",
       "serviceable": true,
@@ -411,6 +422,13 @@
       "sha512": "sha512-93avazUpbRL3IdwvTQF0DKSQB26TeqwMGhZsQNxi/RLSYewhxBkdGDhwWe9DAIRF1+zKDVMv3XkBk8HobKU6wA==",
       "path": "ninject/3.3.6",
       "hashPath": "ninject.3.3.6.nupkg.sha512"
+    },
+    "OpenCover/4.7.1221": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XZsMfTpbGnqLWCQjOeLlbDUU0lazJHbyEX52d7oRSuQX7Ve+23nfk4TF/F61hS382IEHB8WvUwkPB2IIA9WqEQ==",
+      "path": "opencover/4.7.1221",
+      "hashPath": "opencover.4.7.1221.nupkg.sha512"
     },
     "StyleCop.Analyzers/1.1.118": {
       "type": "package",

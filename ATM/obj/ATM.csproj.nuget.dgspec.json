@@ -53,11 +53,21 @@
               "target": "Package",
               "version": "[3.3.6, )"
             },
+            "OpenCover": {
+              "target": "Package",
+              "version": "[4.7.1221, )"
+            },
             "StyleCop.Analyzers": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
               "version": "[1.1.118, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.2, )"
             }
           },
           "imports": [

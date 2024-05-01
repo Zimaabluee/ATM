@@ -10,7 +10,7 @@ namespace ATMSystem
 
     public class AccountRepository : IAccountRepository
     {
-        private readonly string connectionString;
+        public readonly string connectionString;
 
         public AccountRepository(string connectionString)
         {

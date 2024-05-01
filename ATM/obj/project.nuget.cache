@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "xfOYWm0y/SqhSoO07t+IXKlEi1CPITF5vUTY0FGvhGCouEOZ3ceyi/ZFV0Z/Fzk7jtQBJ72qcWZqxv4W1PxEbg==",
+  "dgSpecHash": "cBRTVTluiR02OEaFO5OoyR6iX+YwtIlge3I7IbUT1JReOXrj1iJMvb/VPh2yVK6m2ol43xmGfFku1E2Huf02TQ==",
   "success": true,
   "projectFilePath": "A:\\c#sources\\ATM\\ATM\\ATM.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\akram\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
+    "C:\\Users\\akram\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
     "C:\\Users\\akram\\.nuget\\packages\\google.protobuf\\3.25.1\\google.protobuf.3.25.1.nupkg.sha512",
     "C:\\Users\\akram\\.nuget\\packages\\k4os.compression.lz4\\1.3.5\\k4os.compression.lz4.1.3.5.nupkg.sha512",
     "C:\\Users\\akram\\.nuget\\packages\\k4os.compression.lz4.streams\\1.3.5\\k4os.compression.lz4.streams.1.3.5.nupkg.sha512",
@@ -14,6 +15,7 @@
     "C:\\Users\\akram\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\akram\\.nuget\\packages\\mysql.data\\8.3.0\\mysql.data.8.3.0.nupkg.sha512",
     "C:\\Users\\akram\\.nuget\\packages\\ninject\\3.3.6\\ninject.3.3.6.nupkg.sha512",
+    "C:\\Users\\akram\\.nuget\\packages\\opencover\\4.7.1221\\opencover.4.7.1221.nupkg.sha512",
     "C:\\Users\\akram\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512",
     "C:\\Users\\akram\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\akram\\.nuget\\packages\\system.configuration.configurationmanager\\4.4.1\\system.configuration.configurationmanager.4.4.1.nupkg.sha512",

@@ -8,7 +8,7 @@ namespace ATMSystem
 
     public class AccountService
     {
-        private readonly IAccountRepository accountRepository;
+        public readonly IAccountRepository accountRepository;
 
         public AccountService(IAccountRepository accountRepository)
         {
