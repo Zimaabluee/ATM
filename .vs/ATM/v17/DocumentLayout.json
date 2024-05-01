@@ -58,27 +58,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{4a8466fe-5a05-4f81-ad45-7d7c1316817e}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
               "$type": "Document",
@@ -101,7 +85,7 @@
               "RelativeDocumentMoniker": "unittest\\ATMaccounttest.cs",
               "ToolTip": "A:\\c#sources\\ATM\\unittest\\ATMaccounttest.cs",
               "RelativeToolTip": "unittest\\ATMaccounttest.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAuwCYAAAAAAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA+wCYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-30T19:38:40.099Z",
               "EditorCaption": ""
@@ -109,7 +93,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ATM",
+              "Title": "ATM.csproj",
               "DocumentMoniker": "A:\\c#sources\\ATM\\ATM\\ATM.csproj",
               "RelativeDocumentMoniker": "ATM\\ATM.csproj",
               "ToolTip": "A:\\c#sources\\ATM\\ATM\\ATM.csproj",
@@ -153,7 +137,7 @@
               "RelativeDocumentMoniker": "ATM\\AccountService.cs",
               "ToolTip": "A:\\c#sources\\ATM\\ATM\\AccountService.cs",
               "RelativeToolTip": "ATM\\AccountService.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAcwDAAAAAAAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAA2wDAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-30T18:47:26.88Z",
               "EditorCaption": ""
@@ -179,7 +163,7 @@
               "RelativeDocumentMoniker": "unittest\\ATMSystemtest.cs",
               "ToolTip": "A:\\c#sources\\ATM\\unittest\\ATMSystemtest.cs",
               "RelativeToolTip": "unittest\\ATMSystemtest.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAUAAAAaAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAABRwAUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-30T18:30:49.857Z",
               "EditorCaption": ""
@@ -235,6 +219,22 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-28T02:41:34.858Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a8466fe-5a05-4f81-ad45-7d7c1316817e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             }
           ]
         },
